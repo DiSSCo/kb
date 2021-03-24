@@ -8,4 +8,4 @@ We would like to ask you to help us to improve and test the DiSSCo Knowlegde bas
 To get started, please go to [kown.dissco.eu](https://know.dissco.eu/) and browse to the Projects and its Clusters.  
 If you notice any improvement in the content, general layout, user facilities, discoverability or any other feature, please leave us your feedback [here](https://github.com/DiSSCo/kb/issues).
 
-##Thank you.
+###Thank you.
