@@ -1,5 +1,5 @@
 # DiSSCo Knowledge base
-As an initiative formed by public research institutions, DiSSCo is committed to Open Science. We believe that Open Science not only makes the scientific work more transparent and accessible but also enables a whole new set of collaborative and IT-based scientific methods. This means that the outputs of our common research projects are openly available in the **DiSSCo Knowledge base**.
+As an initiative formed by public research institutions, DiSSCo is committed to Open Science. We believe that Open Science not only makes the scientific work more transparent and accessible but also enables a whole new set of collaborative and IT-based scientific methods. This means that the outputs of our common research projects are openly available at the **DiSSCo Knowledge base**.
 
 The first Beta version is now availabe at [kown.dissco.eu](https://know.dissco.eu/)!  
 
