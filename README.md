@@ -3,7 +3,8 @@ As an initiative formed by public research institutions, DiSSCo is committed to 
 
 The first Beta version is now availabe at [know.dissco.eu](https://know.dissco.eu/)!  
 
-We would like to ask you to help us to improve and test the DiSSCo Knowlegde base, and use this place for feedback and suggestions.
+We would like to ask you to help us to improve and test the DiSSCo Knowlegde base, and use this place for feedback and suggestions. Please use the [GitHub issues](https://github.com/DiSSCo/kb/issues) section in this repo for you public feedback.
+
 # Getting Started
 To get started, please go to [know.dissco.eu](https://know.dissco.eu/) and browse to the Projects and its Clusters.  
 If you notice any improvement in the content, general layout, user facilities, discoverability or any other feature, please leave us your feedback [here](https://github.com/DiSSCo/kb/issues).
