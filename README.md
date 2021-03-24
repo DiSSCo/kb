@@ -1,1 +1,1 @@
-# kb
+# DiSSCo Knowledge base
