@@ -1,25 +1,24 @@
 
-
-name: Content Upload
-description: File a bug report
+name: Content to be uploaded
+description: Content to be uploaded
+title: "[Bug]: "
+labels: [Content to be uploaded]
 body:
-  - type: markdown
-    attributes:
-         
-        Thank you for taking the time to fill this report. To address this issue as fast as possible, we need some necessary information.
+- type: markdown
+  attributes:
+    value: |
+      Thanks for taking the time to fill out this content report!
   - type: input
     id: title
     attributes:
       label: Title of the document
       description: "Title of the document"
     validations:
-      required: true  
+      required: true 
   - type: input
     id: url
     attributes:
       label: url where the document can be found-
       description: "Please provide the full url of your content to be uploaded" 
     validations:
-      required: true     
- 
- 
+      required: true  
