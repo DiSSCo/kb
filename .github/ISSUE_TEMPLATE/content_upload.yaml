@@ -1,1 +1,39 @@
 
+
+name: Content Upload
+description: File a bug report
+body:
+  - type: markdown
+    attributes:
+         
+        Thank you for taking the time to fill this report. To address this issue as fast as possible, we need some necessary information.
+  - type: input
+    id: title
+    attributes:
+      label: Title of the document
+      description: "Title of the document"
+    validations:
+      required: true  
+  - type: input
+    id: url
+    attributes:
+      label: url where the document can be found-
+      description: "Please provide the full url of your content to be uploaded"
+     
+    validations:
+      required: true
+  - type: input
+    id: metadata
+    attributes:
+      label: Metadata Link
+      description: "Please provide, if available, the url to the content's metadata"
+      
+    - type: input
+    id: keywords
+    attributes:
+      label: Keywords
+      description: "Please provide, if available, the keywords for this content. The keywords must be separated by a semi-colom (;)"
+     
+   
+ 
+ 
