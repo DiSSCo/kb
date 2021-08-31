@@ -21,17 +21,5 @@ body:
       description: "Please provide the full url of your content to be uploaded" 
     validations:
       required: true     
-  - type: input
-    id: metadata
-    attributes:
-      label: Metadata Link
-      description: "Please provide, if available, the url to the content's metadata"
-         - type: input
-    id: keywords
-    attributes:
-      label: Keywords
-      description: "Please provide, if available, the keywords for this content. The keywords must be separated by a semi-colom"
-     
-   
  
  
