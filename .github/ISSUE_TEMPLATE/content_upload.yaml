@@ -32,7 +32,7 @@ body:
     id: keywords
     attributes:
       label: Keywords
-      description: "Please provide, if available, the keywords for this content. The keywords must be separated by a semi-colom (;)"
+      description: "Please provide, if available, the keywords for this content. The keywords must be separated by a semi-colom ;"
      
    
  
