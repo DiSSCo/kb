@@ -18,18 +18,15 @@ body:
     id: url
     attributes:
       label: url where the document can be found-
-      description: "Please provide the full url of your content to be uploaded"
-     
+      description: "Please provide the full url of your content to be uploaded" 
     validations:
-      required: true
-      
+      required: true     
   - type: input
     id: metadata
     attributes:
       label: Metadata Link
       description: "Please provide, if available, the url to the content's metadata"
-      
-    - type: input
+         - type: input
     id: keywords
     attributes:
       label: Keywords
