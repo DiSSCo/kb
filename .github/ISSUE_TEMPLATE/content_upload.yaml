@@ -13,6 +13,13 @@ body:
   validations:
     required: true
 - type: input
+  id: metadata
+  attributes:
+    label: metada
+    description: Please provide, if available, the metadata url of the document
+  validations:
+    required: true
+- type: input
   id: url
   attributes:
     label: url
