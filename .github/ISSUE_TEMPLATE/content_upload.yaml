@@ -1,7 +1,4 @@
-name: Content Upload
-description:  Thanks for taking the time to fill out this content report! If you have any content that should be in the DiSSCo KB and it is not, please use this issue to let us know.
 body:
-     
 - type: input
   id: title
   attributes:
@@ -20,7 +17,9 @@ body:
   id: metadata
   attributes:
     label: Metadata
-    description: Please insert here, if available, the metadata url of the document.  
+    description: Please insert here, if available, the metadata url of the document.
+    validations: 
+     required: false
 - type: input
   id: url
   attributes:
