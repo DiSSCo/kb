@@ -12,13 +12,6 @@ body:
 - type: input
   id: metadata
   attributes:
-    label: Keywords
-    description: Please , if available, fill in the field with Keywords. Important - the Keywords must be separated by a semicolon.
-  validations:
-    required: false
-- type: input
-  id: metadata
-  attributes:
     label: Metadata
     description: Please insert here, if available, the metadata url of the document:
   validations:
