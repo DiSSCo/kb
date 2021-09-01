@@ -13,14 +13,19 @@ body:
   id: metadata
   attributes:
     label: Metadata
-    description: Please insert here, if available, the metadata url of the document:
+    description: Please insert here, if available, the metadata url of the document.
   validations:
     required: false
+ - type: input
+  id: metadata
+  attributes:
+    label: Metadata
+    description: Please insert here, if available, the metadata url of the document.  
 - type: input
   id: url
   attributes:
     label: url
-    description: Please provide the url or other identifier for the document:
+    description: Please provide the url or other identifier for the document.
   validations:
     required: true
 
