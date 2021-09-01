@@ -19,11 +19,5 @@ body:
     description: Please provide the url or other identifier for the content
   validations:
     required: true
-    - type: input
-  id: metadata
-  attributes:
-    label: metadata
-    description: Please provide the metadata url, if available.
-  validations:
-    required: false
+
 
