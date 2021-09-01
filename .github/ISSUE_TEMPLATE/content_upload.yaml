@@ -1,5 +1,5 @@
-name: Content upload
-description: Content upload
+name: Content Upload
+description: If you have any content that should be in the DiSSCo KB and it is not, please use this issue to let us know.
 body:
 - type: markdown
   attributes:
@@ -19,4 +19,11 @@ body:
     description: Please provide the url or other identifier for the content
   validations:
     required: true
+    - type: input
+  id: metadata
+  attributes:
+    label: metadata
+    description: Please provide the metadata url, if available.
+  validations:
+    required: false
 
