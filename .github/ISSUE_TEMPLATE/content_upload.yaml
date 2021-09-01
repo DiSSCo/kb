@@ -2,8 +2,6 @@ name: Content report
 description: Please use this issue to report any content that is not in the KB yet, but should be.
 title: "[Content]: "
 body:
-
-body:
 - type: input
   id: title
   attributes:
