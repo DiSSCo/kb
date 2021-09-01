@@ -1,29 +1,33 @@
 name: Content Upload
-description: If you have any content that should be in the DiSSCo KB and it is not, please use this issue to let us know.
+description:  Thanks for taking the time to fill out this content report! If you have any content that should be in the DiSSCo KB and it is not, please use this issue to let us know.
 body:
-- type: markdown
-  attributes:
-    value: |
-      Thanks for taking the time to fill out this content report!
+     
 - type: input
   id: title
   attributes:
-    label: The title of the document
-    description: Please insert the title of the document
+    label: Tittle of the document
+    description: Please insert here the title of the document.
   validations:
     required: true
 - type: input
   id: metadata
   attributes:
-    label: metada
-    description: Please provide, if available, the metadata url of the document
+    label: Keywords
+    description: Please , if available, fill in the field with Keywords. Important: the Keywords must be separated by a semicolon (;).
   validations:
-    required: true
+    required: false
+- type: input
+  id: metadata
+  attributes:
+    label: Metadata
+    description: Please insert here, if available, the metadata url of the document:
+  validations:
+    required: false
 - type: input
   id: url
   attributes:
     label: url
-    description: Please provide the url or other identifier for the content
+    description: Please provide the url or other identifier for the document:
   validations:
     required: true
 
