@@ -1,7 +1,5 @@
 name: Content upload
 description: Content upload
-title: "[Content upload]: "
-labels: [Content upload]
 body:
 - type: markdown
   attributes:
