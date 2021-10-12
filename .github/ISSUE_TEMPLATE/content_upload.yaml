@@ -2,17 +2,7 @@
 name: Content Upload
 description: File a content report
 body:
-  - type: dropdown
-  id: download
-  attributes:
-    label: How did you download the software?
-    options:
-      - Homebrew
-      - MacPorts
-      - apt-get
-      - Built from source
-  validations:
-    required: true
+  
   - type: input
     id: title
     attributes:
@@ -50,8 +40,11 @@ body:
     attributes:
       label: Metadata Link
       description: "Please provide, if available, the url to the metadata."
-     
-   
- 
- 
-
+    
+  - type: input
+    id: privacy
+    attributes:
+      label: Is document private or public?
+      
+    validations:
+      required: true
