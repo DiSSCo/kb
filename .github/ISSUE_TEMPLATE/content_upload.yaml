@@ -44,7 +44,7 @@ body:
   - type: input
     id: privacy
     attributes:
-      label: Is document private or public?
+      label: This document is supposed to be private or public?
       
     validations:
       required: true
