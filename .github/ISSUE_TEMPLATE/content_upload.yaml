@@ -40,11 +40,6 @@ body:
     attributes:
       label: Metadata Link
       description: "Please provide, if available, the url to the metadata."
-   - type: input
-    id: metadata
-    attributes:
-      label: Metadata Link
-      description: "Please provide, if available, the url to the metadata."     
      
    
  
