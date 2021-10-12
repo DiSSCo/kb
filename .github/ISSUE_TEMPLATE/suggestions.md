@@ -8,5 +8,5 @@ assignees: ''
 ---
 
 **Describe the Suggestion**
-A clear and concise description of what we should add or remove from the Knowledgebase.
+A clear and concise description of what we should add or remove from the Knowledgebase (new main Projects, new clusters etc).
 
