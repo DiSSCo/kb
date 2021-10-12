@@ -13,7 +13,7 @@ body:
   - type: input
     id: url
     attributes:
-      label: Url where the document can be found
+      label: Urlor DOI where the document can be found
       description: "Please provide the full url of your content to be uploaded."
      
     validations:
@@ -21,7 +21,7 @@ body:
   - type: input
     id: noUrl    
     attributes:
-      label: Where the document can be found
+      label: If not associated, where the document can be found?
       description: "If the document is not associated with any url, please let us know how we can access the file to be uploaded."
      
     validations:
