@@ -21,7 +21,7 @@ body:
   - type: input
     id: noUrl    
     attributes:
-      label: Where the document can be found
+      label: If not associated with any url, Where can the document be found?
       description: "If the document is not associated with any url, please let us know how we can access the file to be uploaded."
      
     validations:
