@@ -14,7 +14,7 @@ body:
     id: url
     attributes:
       label: Url where the document can be found
-      description: "Please provide the full url of your content to be uploaded."
+      description: "Please provide the full url of your content to be uploaded. Use the stable URL in case a DOI is already assigned (e.g. https://doi.org/xyz)."
      
     validations:
       required: false
